@@ -1,3 +1,5 @@
+![项目脑图](脑图.png)
+
 # Langchain-Chatchat 源码解读目录
 
 ## Langchain–Chatchat
