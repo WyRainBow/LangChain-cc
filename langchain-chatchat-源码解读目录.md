@@ -1,5 +1,7 @@
 # Langchain-Chatchat 源码解读目录
 
+> 官方文档：[Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)
+
 ## Langchain–Chatchat
 - 模型启动
   - 模型启动脚本
